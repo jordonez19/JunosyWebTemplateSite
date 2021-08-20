@@ -84,6 +84,12 @@ code,pre{
 {
     justify-content: space-between;
 }
+
+.hidden
+{
+    height: 0;
+    visibility: hidden;
+}
 /* Showcase */
 .showcase
 {
